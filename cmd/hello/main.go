@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	"gitee.com/YaleXin/hello-go"
+	"github.com/YaleXin/hello-go"
 	"os"
 )
 

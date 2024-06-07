@@ -2,7 +2,7 @@ package hello_test
 
 import (
 	"fmt"
-	"gitee.com/YaleXin/hello-go"
+	"github.com/YaleXin/hello-go"
 	"testing"
 )
 

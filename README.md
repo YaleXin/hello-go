@@ -11,11 +11,11 @@ just say hello
 ## Install
 import code
 ```bash
-go get github.com/246859/hello@latest
+go get github.com/YaleXin/hello-go@latest
 ```
 install cmd
 ````bash
-go install github.com/246859/hello/cmd/hello@latest
+go install github.com/YaleXin/hello-go/cmd/hello@latest
 ````
 
 ## Example
